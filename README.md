@@ -23,6 +23,7 @@ Following advice from more experienced developers, I recreated this interface to
 - React-Components,
 - React-Props,
 - React-Hooks,
+- Fake Api,
 - Axios,
 - Dynamic SSG pages,
 - much more...
