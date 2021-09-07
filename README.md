@@ -45,8 +45,6 @@ Following advice from more experienced developers, I recreated this interface to
 - [Next.js](https://nextjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
 - [Chakra-UI](https://chakra-ui.com/)
-- [Sass](https://sass-lang.com/)
-- [Swiper](https://swiperjs.com/)
 - [JSON Server](https://www.npmjs.com/package/json-server)
 
 <br>
