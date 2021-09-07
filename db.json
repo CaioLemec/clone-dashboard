@@ -1,0 +1,36 @@
+{
+    "courses": [
+        {
+            "id": "1",
+            "title": "Simplicity",
+            "views": 172,
+            "rating": 4.6,
+            "completed": 60,
+            "inProgress": 112
+        },
+        {
+            "id": "2",
+            "title": "Time Planning",
+            "views": 201,
+            "rating": 4.7,
+            "completed": 112,
+            "inProgress": 89
+        },
+        {
+            "id": "3",
+            "title": "Fast and Slow",
+            "views": 193,
+            "rating": 4.8,
+            "completed": 100,
+            "inProgress": 93
+        },
+        {
+            "id": "4",
+            "title": "Task management",
+            "views": 243,
+            "rating": 4.9,
+            "completed": 233,
+            "inProgress": 10
+        }
+    ]
+}
