@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="logo" title="Logotype" src="./public/images/logoType.svg" width="30%" />
+    <img alt="logo" title="Logotype" src="./public/images/logoType.svg" width="10%" />
 </h1>
 <br>
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
- <img alt="mockup" src="./public/GitHub/MockUp.png" width="50%">
+ <img alt="mockup" src="./public/GitHub/MockUp.png" width="auto">
 </p>
 <hr>
 
