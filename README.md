@@ -25,7 +25,6 @@ Following advice from more experienced developers, I recreated this interface to
 - React-Hooks,
 - Fake Api,
 - Axios,
-- Dynamic SSG pages,
 - much more...
 
 >`Alert 1:` Due to some features in the styling, it is not recommended to use IE 8 and under. <br>
@@ -61,7 +60,7 @@ Follow the instructions to run the application:
 
 1. Clone the repository: 
 ```bash 
-git@github.com:CaioLemec/crypto-monitor.git
+git@github.com:CaioLemec/clone-dashboard.git
 ```
 2. Install all dependencies by using command:
 ```bash
