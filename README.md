@@ -24,6 +24,7 @@ Following advice from more experienced developers, I recreated this interface to
 - React-Props,
 - React-Hooks,
 - Fake Api,
+- TypeScript,
 - Axios,
 - much more...
 
